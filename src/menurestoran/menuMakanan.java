@@ -13,7 +13,7 @@ import java.io.File;
 
 /**
  *
- * @author ASUS TUF15
+ * @author Alhusna Hanifah
  */
 public class menuMakanan extends javax.swing.JFrame {
     private boolean totalButtonPressed = false;
