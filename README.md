@@ -1,4 +1,4 @@
-Project Reservasi-Restoran
+**Project Reservasi-Restoran**
  
 Project reservasi restoran ini bersifat sederhana dan digunakan untuk memberikan dasar pada fitur-fitur yang mungkin dimiliki oleh sistem reservasi restoran. Project ini juga telah mengintegrasikan Graphics User Interface, sehingga user dapat berinteraksi dengan program melalui antarmuka yang lebih ramah pengguna. 
 
@@ -12,7 +12,7 @@ Berikut adalah deskripsi singkat mengenai fitur-fitur utama dan fungsionalitas p
 7. Check Reservation : Pengguna dapat memastikan reservasi dengan memasukkan nomor reservasi dan nama pengguna. 
 
 
-Anggota Kelompok :
+**Anggota Kelompok :**
 1. Alhusna Hanifah (2208107010060)
 2. Iwani Khairina (2208107010078)
 3. Rizky Yusmansyah (2208107010024)
