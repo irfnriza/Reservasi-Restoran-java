@@ -6,7 +6,7 @@ package menurestoran;
 
 /**
  *
- * @author ASUS TUF15
+ * @author Alhusna Hanifah
  */
 public class MenuRestoran {
 
