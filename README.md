@@ -11,7 +11,9 @@ Berikut adalah deskripsi singkat mengenai fitur-fitur utama dan fungsionalitas p
 6. Payment: Harga makanan per item telah ditentukan, dan total harga reservasi dihitung berdasarkan jumlah item makanan yang dipilih. Pengguna akan diarahkan untuk melakukan pembayaran. Jika sudah selesai, maka pengguna akan mendapatkan nomor reservasi. 
 7. Check Reservation : Pengguna dapat memastikan reservasi dengan memasukkan nomor reservasi dan nama pengguna. 
 
+
 **Kelompok 1**
+
 **Anggota Kelompok :**
 1. Alhusna Hanifah (2208107010060)
 2. Iwani Khairina (2208107010078)
