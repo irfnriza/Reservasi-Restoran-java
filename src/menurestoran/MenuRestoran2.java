@@ -216,8 +216,6 @@ public class MenuRestoran2 extends javax.swing.JFrame {
         });
     }
     
-    private void saveOrderInfoToFile(String meja) {}
-    
     
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
