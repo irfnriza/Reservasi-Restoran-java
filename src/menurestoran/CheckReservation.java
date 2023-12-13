@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  *
- * @author ASUS TUF15
+ * @author Alhusna Hanifah
  */
 public class CheckReservation extends javax.swing.JFrame {
 
