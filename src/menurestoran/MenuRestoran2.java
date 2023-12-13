@@ -215,6 +215,14 @@ public class MenuRestoran2 extends javax.swing.JFrame {
             }
         });
     }
+
+    private void saveOrderInfoToFile(String meja) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("Database/order.txt", true))) {
+            writer.write(meja + ",");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
     
     
     // Variables declaration - do not modify//GEN-BEGIN:variables
