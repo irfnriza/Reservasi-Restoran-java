@@ -1,7 +1,9 @@
-**Project Reservasi-Restoran**
- 
+# Project Reservasi Restoran
+
+# Description
 Project reservasi restoran ini bersifat sederhana dan digunakan untuk memberikan dasar pada fitur-fitur yang mungkin dimiliki oleh sistem reservasi restoran. Project ini juga telah mengintegrasikan Graphics User Interface, sehingga user dapat berinteraksi dengan program melalui antarmuka yang lebih ramah pengguna. 
 
+# Feature
 Berikut adalah deskripsi singkat mengenai fitur-fitur utama dan fungsionalitas project Reservasi-Restoran:
 1. Login Pengguna: Sistem ini memiliki fitur login yang memungkinkan pengguna untuk masuk ke dalam sistem dengan menggunakan username dan password. Ini membantu dalam melacak dan menyimpan informasi pemesanan pengguna.
 2. Registrasi : jika pengguna belum mempunyai akun, maka pengguna dapat melakukan registrasi.
@@ -11,7 +13,7 @@ Berikut adalah deskripsi singkat mengenai fitur-fitur utama dan fungsionalitas p
 6. Payment: Harga makanan per item telah ditentukan, dan total harga reservasi dihitung berdasarkan jumlah item makanan yang dipilih. Pengguna akan diarahkan untuk melakukan pembayaran. Jika sudah selesai, maka pengguna akan mendapatkan nomor reservasi. 
 7. Check Reservation : Pengguna dapat memastikan reservasi dengan memasukkan nomor reservasi dan nama pengguna.
 
-
+# Preview
 
 
    ![image](https://github.com/irfnriza/Reservasi-Restoran-java/assets/131465525/71ae9adb-ed4d-4d87-b3f6-59377ed43299)
@@ -20,6 +22,7 @@ Berikut adalah deskripsi singkat mengenai fitur-fitur utama dan fungsionalitas p
 
 
 
+# Contributor
 **Kelompok 1**
 
 **Anggota Kelompok :**
