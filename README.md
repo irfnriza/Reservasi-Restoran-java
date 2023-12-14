@@ -9,7 +9,15 @@ Berikut adalah deskripsi singkat mengenai fitur-fitur utama dan fungsionalitas p
 4. Tanggal Reservasi: Pengguna akan diminta untuk memasukkan informasi tanggal, jam, dan jumlah orang. Jika pada tanggal dan jam tersebut, meja telah terisi, maka pengguna dapat memilih meja lain. 
 5. Pilihan Makanan: Daftar makanan disajikan dalam antarmuka grafis dengan pilihan yang dapat dipilih oleh pengguna melalui tombol.
 6. Payment: Harga makanan per item telah ditentukan, dan total harga reservasi dihitung berdasarkan jumlah item makanan yang dipilih. Pengguna akan diarahkan untuk melakukan pembayaran. Jika sudah selesai, maka pengguna akan mendapatkan nomor reservasi. 
-7. Check Reservation : Pengguna dapat memastikan reservasi dengan memasukkan nomor reservasi dan nama pengguna. 
+7. Check Reservation : Pengguna dapat memastikan reservasi dengan memasukkan nomor reservasi dan nama pengguna.
+
+
+
+
+   ![image](https://github.com/irfnriza/Reservasi-Restoran-java/assets/131465525/71ae9adb-ed4d-4d87-b3f6-59377ed43299)
+   
+                                       Tampilan Awal Program
+
 
 
 **Kelompok 1**
